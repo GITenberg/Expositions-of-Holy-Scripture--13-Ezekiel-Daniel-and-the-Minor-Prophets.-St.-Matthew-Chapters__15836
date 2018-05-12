@@ -1,0 +1,33 @@
+_repo: Expositions-of-Holy-Scripture--13-Ezekiel-Daniel-and-the-Minor-Prophets.-St.-Matthew-Chapters__15836
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maclaren, Alexander
+    alias: McLaren, Alexander
+    birthdate: 1826
+    deathdate: 1910
+    gutenberg_agent_id: '2330'
+    url: http://www.gutenberg.org/2009/agents/2330
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Maclaren
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Commentaries'
+- !lcsh 'Bible. Minor Prophets -- Commentaries'
+- !lcsh 'Bible. Matthew I-VIII -- Commentaries'
+- !lcc 'BS'
+- !lcsh 'Bible. Ezekiel -- Commentaries'
+title: "Expositions of Holy Scripture\r\nEzekiel, Daniel, and the Minor Prophets.\
+  \ St. Matthew Chapters I to VIII"
+url: http://www.gutenberg.org/ebooks/15836
